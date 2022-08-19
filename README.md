@@ -1,7 +1,7 @@
 # EDA-Web App
 
-This app provides you with all the basic details and visualizations you need to get an abstract idea about the dataset.
-You just have to upload a dataset and let the rest be taken care by the web app.
+This web app will provide you with interseting visualizations and info from any data set you have provided.
+All you have to do is  upload your dataset, then just witness the functionalities the app provides you with.
 It was deployed on heroku and done using streamlit.
 
-Link: 
+Link: https://eda-webapp-auto.herokuapp.com/
